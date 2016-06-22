@@ -3,14 +3,11 @@
 	<header class="home" style="background: ctransparent url('images/home_header_image.jpg') no-repeat fixed 50% 50% / cover ">
 		
 		<div class="top">
-		
-			
 			<div id="menu_burger" class="menu_icon">
 				<span class="menu_1"></span>
 				<span class="menu_2"></span>
 				<span class="menu_3"></span>
 			</div>
-			
 		</div>
 
 		<img class="home_header_image" src="images/home_header_image.jpg">
@@ -19,18 +16,15 @@
 			<div class="nom">Nom de la référence</div>
 			<div class="nom_architectes">Nom Architecte / Nom Architecte</div>
 		</div>
- 
-		<div class="container_en_tete">
 
+		<div class="container_en_tete">
 			<div class="en_tete">
 				<img src="images/logos/logo_sedp.png" class="logo_sedp"></img>
 				<div class="titre">Gestion et ingénierie immobilières</div>
 				<img src="images/icons/ico_titre.png" class="ico_titre"></img>
 				<img src="images/logos/logo_ratp.png" class="logo_ratp"></img>
 			</div>
-
 			<a href="#" class="ico_arrow"><img src="images/icons/ico_arrow.png" ></a>
-
 		</div>
 	</header>
 
@@ -40,14 +34,126 @@
 
 			<section class="competences">
 				<div class="row">
-					<div class="columns medium-12">
+					<div class="slider_padding columns medium-12">
+						<div id="slider_competence" class="slider_competence"> 
+
+							<div class="img items">	
+								<img src="images/slider_competence/competence1.jpg" title="stratégie de valorisation immobilière">
+								<div class="expertiser">
+									<span class="num">1</span>
+									<div class="titre">
+										nos compétences
+										<span class="underline"></span> 
+									</div>
+									<div class="description">Stratégie de valorisation immobilière </div>
+									<div class="desc">
+										Quisque nunc ante, semper sit amet sodales placerat, uctus vitae arcu. Donec consectetur dolor in venenatis vehicula. 
+									</div>
+									<div class="tout">
+										<a href="">Découvez les métiers <span class="ico_arrow_right"></span></a>
+									</div>
+								</div>
+							</div>
+
+							<div class="img items">	
+								<img src="images/slider_competence/competence2.jpg" title="stratégie de valorisation immobilière">
+								<div class="expertiser">
+									<span class="num">2</span>
+									<div class="titre">
+										nos compétences
+										<span class="underline"></span> 
+									</div>
+									<div class="description">Stratégie de valorisation immobilière </div>
+									<div class="desc">
+										Quisque nunc ante, semper sit amet sodales placerat, uctus vitae arcu. Donec consectetur dolor in venenatis vehicula. 
+									</div>
+									<div class="tout">
+										<a href="">Découvez les métiers <span class="ico_arrow_right"></span></a>
+									</div>
+								</div>
+							</div>
+
+							<div class="img items">	
+								<img src="images/slider_competence/competence1.jpg" title="stratégie de valorisation immobilière">
+								<div class="expertiser">
+									<span class="num">3</span>
+									<div class="titre">
+										nos compétences
+										<span class="underline"></span> 
+									</div>
+									<div class="description">Stratégie de valorisation immobilière </div>
+									<div class="desc">
+										Quisque nunc ante, semper sit amet sodales placerat, uctus vitae arcu. Donec consectetur dolor in venenatis vehicula. 
+									</div>
+									<div class="tout">
+										<a href="">Découvez les métiers <span class="ico_arrow_right"></span></a>
+									</div>
+								</div>
+							</div>
+
+							<div class="img items">	
+								<img src="images/slider_competence/competence2.jpg" title="stratégie de valorisation immobilière">
+								<div class="expertiser">
+									<span class="num">4</span>
+									<div class="titre">
+										nos compétences
+										<span class="underline"></span> 
+									</div>
+									<div class="description">Stratégie de valorisation immobilière </div>
+									<div class="desc">
+										Quisque nunc ante, semper sit amet sodales placerat, uctus vitae arcu. Donec consectetur dolor in venenatis vehicula. 
+									</div>
+									<div class="tout">
+										<a href="">Découvez les métiers <span class="ico_arrow_right"></span></a>
+									</div>
+								</div>
+							</div>
+
+							<div class="img items">	
+								<img src="images/slider_competence/competence1.jpg" title="stratégie de valorisation immobilière">
+								<div class="expertiser">
+									<span class="num">5</span>
+									<div class="titre">
+										nos compétences
+										<span class="underline"></span> 
+									</div>
+									<div class="description">Stratégie de valorisation immobilière </div>
+									<div class="desc">
+										Quisque nunc ante, semper sit amet sodales placerat, uctus vitae arcu. Donec consectetur dolor in venenatis vehicula. 
+									</div>
+									<div class="tout">
+										<a href="">Découvez les métiers <span class="ico_arrow_right"></span></a>
+									</div>
+								</div>
+							</div>
+
+							<div class="img items">	
+								<img src="images/slider_competence/competence2.jpg" title="competence2">
+								<div class="expertiser">
+									<span class="num">6</span>
+									<div class="titre">
+										nos compétences
+										<span class="underline"></span> 
+									</div>
+									<div class="description"> 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9</div>
+									<div class="desc">
+										Quisque nunc ante, semper sit amet sodales placerat, uctus vitae arcu. Donec consectetur dolor in venenatis vehicula. 
+									</div>
+									<div class="tout">
+										<a href="">Découvez les métiers <span class="ico_arrow_right"></span></a>
+									</div>
+								</div>
+							</div>
+
+						</div>
 
 					</div>
-				</div> 
+				</div>
 			</section>
 		<!--*******************************     COMPETENCES   -->
 
 		<!--*******************************     ACTUALITES   -->
+
 			<section class="actualites">
 				<div class="row">
 					<div class="columns medium-12">
@@ -89,7 +195,6 @@
 								<div class="description">12 Oct 2015</div>
 							</a>
 						</div>
-
 					</div>
 				</div>
 
@@ -98,7 +203,6 @@
 						<div class="tout"><a href="">Toutes nos actualités <span class="ico_arrow_right"></span></a></div>
 					</div> 
 				</div>
-
 			</section>
 		<!--*******************************     END ACTUALITES   -->
 		
@@ -115,9 +219,7 @@
 				</div>
 				
 				<div class="row">
-
 					<div class="slider_padding_right columns medium-12">
-
 						<div id="slider_projets" class="slider_projets">
 
 							<div class="item single_projet black">
@@ -168,17 +270,14 @@
 								</div>
 							</div>
 
-
 						</div>
 
 						<div class="tout"><a href="">Toutes nos références <span class="ico_arrow_right"></span></a></div>
-					</div> 
+					</div>
 				</div>
 
 			</section>
 		<!--*******************************     END PROJETS   -->
-		
-
 	</section>
 
 <?php require( 'footer.php' ); ?>
